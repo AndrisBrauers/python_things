@@ -57,4 +57,4 @@ def arithmetic_arranger(problems, calc=False):
     return to_print
 
 
-print(arithmetic_arranger(["32 + 698", "3801 - 2", "45 + 43", "123 + 49"], True))
+print(arithmetic_arranger(["32 - 698", "3801 - 2", "45 + 43", "123 + 49"], True))
